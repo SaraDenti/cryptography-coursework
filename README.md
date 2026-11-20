@@ -36,4 +36,3 @@ Courseworks 1 and 2 are Julia scripts (`.jl`), and Coursework 3 is a Jupyter not
 - **Scripts:** load the relevant function definitions first, then run the corresponding exercise block.
 - **Notebook:** run the cells from top to bottom.
 
-Exercises that use coursework-provided inputs need the corresponding personalised data file, which is not included in this repository.
